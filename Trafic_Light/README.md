@@ -4,7 +4,7 @@
 ## 유트브 링크 
 - 작동설명
   https://youtu.be/CtjAZcNvUd0?si=qonMRei89ybyIWY-
-- 아두이노 코드 설명(2주차 과제와 변경사항이 없습니다.)
+- 아두이노 코드 설명
   https://youtu.be/9J7bw1u8GeM?si=LmlO0U5ShBDX8VP5
 - p5.js 코드 설명 
   https://youtu.be/kihaiLj0fFM?si=3fJv_j5dy76PqZX7
