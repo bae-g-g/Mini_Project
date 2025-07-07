@@ -10,15 +10,6 @@
   https://youtu.be/kihaiLj0fFM?si=3fJv_j5dy76PqZX7
 
     
-  - **3주차 과제에서 추가된 내용 설명 부분(p5.js코드 설명 영상)**
-  - 0:35 ~ 2:05
-  - 4:50 ~ 5:50
-  - 9:00 ~ 10:05
-  - 13:40 ~
----
----
-### 3주차 과제에서 추가된 내용은 글 하단에 있습니다.
-### 아두이노의 회로,코드의 변경사항은 없습니다.
 ---
 ---
 ![image](https://github.com/user-attachments/assets/0b16ab2e-18f1-4164-80dd-bac7d4ad4769)
