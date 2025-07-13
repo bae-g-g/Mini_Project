@@ -12,13 +12,10 @@
     
 ---
 ---
-![image](https://github.com/user-attachments/assets/0b16ab2e-18f1-4164-80dd-bac7d4ad4769)
-
 
 
 
 # Arduino
-![스크린샷 2025-03-16 오후 6 42 05](https://github.com/user-attachments/assets/e06c108e-3ed5-4211-81fa-5dda64163a52)
 
 Red LED ( 9번 핀)
 Yellow LED ( 10번 핀 )
@@ -116,7 +113,6 @@ Emergeny_State,Blink_State,Off_state,Normal_State함수에서 상태가 변경�
 
 
 # p5.js
-<img width="1247" alt="스크린샷 2025-03-23 오전 4 17 29" src="https://github.com/user-attachments/assets/4b1b2e6e-f556-48c1-a506-e12bd58f9c3d" />
 
 
 ## 신호등 설정 밝기 인디케이터
@@ -182,9 +178,6 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
   
 
 ## 모드변경
-| 모드     | Emergency     | Blink     | Off     | Normal     |
-|-----------|-----------|-----------|-----------|-----------|
-| **제스처**     | ![m0](https://github.com/user-attachments/assets/61c6d9a0-ae82-4e26-8ef5-2689b579df09)| ![m1](https://github.com/user-attachments/assets/bb28e8ca-5d54-44ba-9d3d-12badb788522) | ![m2](https://github.com/user-attachments/assets/3132c391-1709-4e79-8ee9-0c4503651c15) | ![m3](https://github.com/user-attachments/assets/e7894f46-aa53-4ebc-83e6-0424c906151a) |
 
 **오른손 손바닥이 보인 채로, 검지가 펴졌을 때 수직이 되도록 손을 위치시킵니다.**
 - 손가락이 모두 접혀있는 경우 emergency상태가 됩니다.
@@ -199,10 +192,6 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
 
 
 ## 주기변경
-| 색상     | Red    | Yellow     | Green     |
-|-----------|-----------|-----------|-----------|
-| 증가     |  ![r_u](https://github.com/user-attachments/assets/042ac82a-5693-4545-b94b-2d5400a6fcbb) | ![y_u](https://github.com/user-attachments/assets/bfd7fc83-34e8-4869-a303-59a3ac0c7089) | ![g_u](https://github.com/user-attachments/assets/2a93610f-ff98-4f86-aab6-62290cf82cf4)|
-| 감소     | ![r_d](https://github.com/user-attachments/assets/07f34e3c-1be5-45ac-ab27-1877b60d2d6a) | ![y_d](https://github.com/user-attachments/assets/d4913ca6-f6e0-457d-b6ea-721156af96be) | ![g_d](https://github.com/user-attachments/assets/9df939a4-6418-4377-865c-856fb8778b8d) |
 
 **오른손 손등이 보인 채로, 검지가 펴졌을 때 수평이 되도록 손을 위치시킵니다.**
 - 엄지가 펴진상태에서
@@ -215,9 +204,6 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
   - 손가락이 2개만 펴진경우 녹색 주기를 감소시킵니다.
   
 **각 증가 감소 수치는 250ms입니다.**
-
----
-*4개 모드 버튼은 2주차 과제에서 구현하였습니다.* 
 
 
 
