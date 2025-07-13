@@ -5,8 +5,6 @@ https://youtu.be/zwd3GKvCSxg?si=nDjShfThVRDAVZ3A
 https://youtu.be/77Cm22JIbjk?si=3-wCEzwBd5EIzSng
 
 # 회로설명
-![스크린샷 2025-05-11 오후 11 54 08](https://github.com/user-attachments/assets/ac848158-1b99-4c2c-8eef-9a3aa3b092f6)
-![IMG_5317](https://github.com/user-attachments/assets/e27905e7-0103-45ad-bcc9-b89b00351d89)
 
 ### R9DS <-> 아두이노 
 - 3번 채널 신호선 <-> A1
@@ -19,8 +17,6 @@ https://youtu.be/77Cm22JIbjk?si=3-wCEzwBd5EIzSng
 - BlUE <-> 6
 
 # RadioLink AT9
-![image](https://github.com/user-attachments/assets/6dbeec2c-0ac7-4e54-be33-915906aa9b16)
-
 
 - 3번 채널 펄스폭  1300 ~ 1950 조절가능
 - 5번 채널 펄스폭  1200,1550,1900 세 개
@@ -29,7 +25,6 @@ https://youtu.be/77Cm22JIbjk?si=3-wCEzwBd5EIzSng
  # 동작
 ## 펄스폭 계산
 
-![image](https://github.com/user-attachments/assets/40c39fa2-6eb4-4869-a279-0bd8cdd76b0c)
 - 신호 LOW -> HIGH :
   인터럽트가 걸리고 현재시간 저장
 - 신호 HIGH -> LOW :
